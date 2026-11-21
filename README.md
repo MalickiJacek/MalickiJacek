@@ -12,11 +12,12 @@ I design and build GIS systems end to end: from requirements and BPMN process mo
 
 ## 📌 Featured projects
 
-| Project | What it shows |
-|---|---|
-| [lorawan-set-cover](https://github.com/MalickiJacek/lorawan-set-cover) | Exact Set Cover ILP for antenna placement · PyQGIS · GeoPandas · PuLP · tests & CI |
+| Project                                                                                 | What it shows                                                                                             |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [lorawan-set-cover](https://github.com/MalickiJacek/lorawan-set-cover)                   | Exact Set Cover ILP for antenna placement · PyQGIS · GeoPandas · PuLP · tests & CI                    |
+| [geoplanner-route-optimizer](https://github.com/MalickiJacek/geoplanner-route-optimizer) | Full-stack route planning · Django REST · React + Leaflet · OR-Tools TSP · PostgreSQL · Docker · CI |
+
 <!-- add rows when the repos are public:
-| [geoplanner-route-optimizer](https://github.com/MalickiJacek/geoplanner-route-optimizer) | Full-stack route planning · Django REST · React · OR-Tools VRP · Docker |
 | [urban-green-web-map-arcgis](https://github.com/MalickiJacek/urban-green-web-map-arcgis) | Web GIS editing app · React · TypeScript · ArcGIS Maps SDK |
 | [district-heating-network-arcgis](https://github.com/MalickiJacek/district-heating-network-arcgis) | Research code for an MDPI paper · ArcGIS Pro · ModelBuilder · ArcPy |
 -->
@@ -34,7 +35,7 @@ I design and build GIS systems end to end: from requirements and BPMN process mo
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SQL Server](<https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white>)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
