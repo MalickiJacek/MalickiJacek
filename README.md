@@ -16,15 +16,16 @@ I design and build GIS systems end to end: from requirements and BPMN process mo
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [lorawan-set-cover](https://github.com/MalickiJacek/lorawan-set-cover)                   | Exact Set Cover ILP for antenna placement · PyQGIS · GeoPandas · PuLP · tests & CI                    |
 | [geoplanner-route-optimizer](https://github.com/MalickiJacek/geoplanner-route-optimizer) | Full-stack route planning · Django REST · React + Leaflet · OR-Tools TSP · PostgreSQL · Docker · CI |
+| [district-heating-network-arcgis](https://github.com/MalickiJacek/district-heating-network-arcgis) | Code behind my MDPI paper · ArcGIS Pro ModelBuilder & ArcPy · Steiner-tree heuristic in networkx · pipe sizing |
+| [fleet-routing-vrp-arcgis](https://github.com/MalickiJacek/fleet-routing-vrp-arcgis) | MSc thesis · daily fleet routing with ArcGIS Pro Network Analyst (VRP) · −5.4% driving cost on 1,079 real collections |
 
 <!-- add rows when the repos are public:
 | [urban-green-web-map-arcgis](https://github.com/MalickiJacek/urban-green-web-map-arcgis) | Web GIS editing app · React · TypeScript · ArcGIS Maps SDK |
-| [district-heating-network-arcgis](https://github.com/MalickiJacek/district-heating-network-arcgis) | Research code for an MDPI paper · ArcGIS Pro · ModelBuilder · ArcPy |
 -->
 
 ## 📄 Publication
 
-**Least-Cost-Path and Closest Facility Analysis for Generating District Heating Networks on a Communal Level** – *Applied Sciences* (MDPI), 2024 · [read the paper](https://www.mdpi.com/2076-3417/14/2/763)
+**Least-Cost-Path and Closest Facility Analysis for Generating District Heating Networks on a Communal Level** – *Applied Sciences* (MDPI), 2024 · [read the paper](https://www.mdpi.com/2076-3417/14/2/763) · [code](https://github.com/MalickiJacek/district-heating-network-arcgis)
 
 ## 🧰 Tech stack
 
